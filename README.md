@@ -12,4 +12,6 @@ For best results run the r scripts in the following order.
 
 The output csv is called pa_gw_data
 
+The output plots are contained in images.zip
+
 for any questions, contact brm5444(at)psu(dot)edu
